@@ -5,9 +5,9 @@
 Passionate about building scalable web applications with modern technologies. Currently expanding my knowledge in full-stack development through hands-on projects and continuous learning.
 
 ### 🛠️ Tech Stack
-- **Frontend:** React.js, JavaScript (ES6+), Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Frontend:** React.js, Next.js TypeScript, JavaScript (ES6+), Tailwind CSS
+- **Backend:** Node.js, Express.js, FastAPI, Python
+- **Database:** MongoDB, PostgreSQL
 - **Tools & Others:** Git, npm, REST APIs
 
 ### 🌱 Currently...
