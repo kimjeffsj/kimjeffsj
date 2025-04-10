@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Seongjun(Jeff) Kim
 
-## 💻 Junior Software Developer | UBC Extended Learning Graduate
+## 💻 Software Developer | UBC Extended Learning Graduate
 
 Passionate about building scalable web applications with modern technologies. Currently expanding my knowledge in full-stack development through hands-on projects and continuous learning.
 
