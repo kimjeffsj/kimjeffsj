@@ -8,6 +8,7 @@ Passionate about building scalable web applications with modern technologies. Cu
 - **Frontend:** React.js, Next.js TypeScript, JavaScript (ES6+), Tailwind CSS
 - **Backend:** Node.js, Express.js, FastAPI, Python
 - **Database:** MongoDB, PostgreSQL
+- **Cloud**: AWS EC2, RDS, S3
 - **Tools & Others:** Git, npm, REST APIs
 
 ### 🌱 Currently...
